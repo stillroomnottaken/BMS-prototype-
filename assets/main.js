@@ -8,9 +8,9 @@
      You can instead paste a URL straight into the href="" of the icon in the HTML.
      ------------------------------------------------------------------ */
   var BMS_SOCIAL = {
-    instagram: '',
-    linkedin: '',
-    facebook: ''
+    instagram: 'https://www.instagram.com/realdonaldtrump/?hl=en',
+    linkedin: 'https://www.linkedin.com/in/barackobama/',
+    facebook: 'https://www.facebook.com/PrabowoSubianto/'
   };
 
   // Mobile nav
